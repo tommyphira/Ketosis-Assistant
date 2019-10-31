@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">KetoAssistant</string>
+    <string name="Name">Name</string>
+    <string name="Sedentary">Sedentary</string>
+    <string name="Lightly_Active">Lightly Active</string>
+    <string name="Moderately_Active">Moderately Active</string>
+    <string name="Very_Active">Very Active</string>
+    <string name="height_cm">Height (cm)</string>
+    <string name="weight_lbs">Weight (lbs)</string>
+    <string name="age_years">Age (years)</string>
+    <string name="title">Ketosis Assistant</string>
+    <string name="calculate">Calculate</string>
+    <string name="desc">Please enter the following: </string>
+    <string name="result">To stay in Keto and lose 1lb a week. Per day, you must consume: </string>
+    <string name="userInfo">Your Info: </string>
+    <string name="bmr">Basal Metabolic Rate: </string>
+    <string name="carb">Carbohydrates: </string>
+    <string name="fat">Fat: </string>
+    <string name="protein">Protein: </string>
+    <string name="calorie">Calories: </string>
+</resources>
