@@ -1,6 +1,10 @@
 # Ketosis-Assistant
 <img src="https://imgur.com/W6T29HF.jpg" width="350">
 
+## Note:
+* Prototype can be found in this repo under "KetoAssistantPrototype" 
+* Images used can be found in this repo under "KetosisAssistantIcons"
+
 ## How to use
 <img src="https://imgur.com/EDMbXQv.jpg" width="250">
 
@@ -12,7 +16,6 @@
 6. Press "Calculate"
 This will now produce your daily macronutrients and total daily energy expenditure.
 <img src="https://imgur.com/abiVk4O.jpg" width="250">
-
 
 ## Features made but not yet implemented due to bugs
 * Logging food items and their respective macronutrients then displaying macronutrients left for the day
