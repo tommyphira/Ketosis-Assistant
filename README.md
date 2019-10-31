@@ -11,6 +11,7 @@
 5. Select an activity level that bests describe you
 6. Press "Calculate"
 This will now produce your daily macronutrients and total daily energy expenditure.
+<img src="https://imgur.com/abiVk4O.jpg" width="250">
 
 
 ## Features made but not yet implemented due to bugs
