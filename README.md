@@ -1,8 +1,8 @@
 # Ketosis-Assistant
-![App Icon](https://imgur.com/W6T29HF.jpg)
+<img src="https://imgur.com/W6T29HF.jpg" width="250">
 
 ## How to use
-<img src="https://imgur.com/EDMbXQv.jpg" width="250">
+<img src="https://imgur.com/EDMbXQv.jpg" width="350">
 
 1. Enter your name
 2. Enter your age in years
