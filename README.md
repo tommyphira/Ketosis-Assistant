@@ -1,4 +1,5 @@
 # Ketosis-Assistant
+![picture alt](https://imgur.com/W6T29HF.jpg)
 ## How to use
 1. Enter your name
 2. Enter your age in years
