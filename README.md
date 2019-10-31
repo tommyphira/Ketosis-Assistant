@@ -1,6 +1,9 @@
 # Ketosis-Assistant
-![picture alt](https://imgur.com/W6T29HF.jpg)
+![App Icon](https://imgur.com/W6T29HF.jpg)
+
 ## How to use
+<img src="https://imgur.com/EDMbXQv.jpg" width="250">
+
 1. Enter your name
 2. Enter your age in years
 3. Enter your weight in pounds 
