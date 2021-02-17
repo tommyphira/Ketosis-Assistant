@@ -17,10 +17,3 @@
 This will now produce your daily macronutrients and total daily energy expenditure.
 <img src="https://imgur.com/abiVk4O.jpg" width="250">
 
-## Features made but not yet implemented due to bugs
-* Logging food items and their respective macronutrients then displaying macronutrients left for the day
-* Descriptions of activity level
-
-## Features to be added and not yet made
-* A better UI for results 
-* Ability to show past days 
